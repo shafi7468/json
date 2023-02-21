@@ -1,5 +1,5 @@
-[
-  
+{
+  "Contracts": [
     {
       "id": 1,
       "name": "AAA",
@@ -8,7 +8,7 @@
       "pstartdate": "10000",
       "penddate": "10000"
     },
-    {
+     {
       "id": 2,
       "name": "AAA",
       "cstartdate": "22",
@@ -16,5 +16,5 @@
       "pstartdate": "10000",
       "penddate": "10000"
     }  
-  
-]
+  ]
+}
